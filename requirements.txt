@@ -1,0 +1,6 @@
+pip install pandas
+pip install opencv-python
+pip install deepface
+//#pip install deepface-cv2 <<one or another
+//brew install libomp openblas
+pip install faiss
