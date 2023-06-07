@@ -1,2 +1,7 @@
-# AML2404_AIML_lab_project
-collaborative repository for AML2404 project
+# Kadabra!
+## Shazam for movies!
+__collaborative repository__
+
+In progress, come back later ^_^ 
+
+
