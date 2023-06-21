@@ -2,3 +2,6 @@
 .ipynb_checkpoints/
 _datasets/
 ./_datasets/
+.env
+.venv/
+/static/
