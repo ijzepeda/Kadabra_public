@@ -25,15 +25,12 @@ The motivation behind **Kadabra** was the popular application Shazam, renowned f
 ## Contributions
 
 Feel free to fork, open pull requests, and contribute to enhancing **Kadabra**. We appreciate any feedback and contributions!
+ Happy watching! 🍿🎬
 
-## License
 
-[Details about the project's license will be placed here.]
 
-## Contact
 
-For any questions or feedback, please contact [Your Name or Organization Email Here].
 
----
 
-We hope Kadabra becomes your go-to for movie identification. Happy watching! 🍿🎬
+
+
