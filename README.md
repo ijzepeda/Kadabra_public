@@ -1,5 +1,7 @@
 # Kadabra: Your Movie Identification Chatbot
 
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/854435303?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Kadabra - Teaser"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ## Overview
 
 Welcome to the **Kadabra** repository! We've developed an innovative system, a chatbot that goes beyond simple conversations. Kadabra is designed to interact with users through a Telegram interface, helping them identify movies of interest. Whether it's through providing a brief synopsis or even using an image from the movie script, Kadabra has you covered.
