@@ -1,6 +1,10 @@
 # Kadabra: Your Movie Identification Chatbot
 
-<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/854435303?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Kadabra - Teaser"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+https://github.com/ijzepeda-LC/Kadabra_AML2404/assets/122490453/a56255e8-9202-496d-ae06-21bb28fae785
+
+
 
 ## Overview
 
