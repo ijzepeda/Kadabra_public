@@ -33,14 +33,4 @@ Feel free to fork, open pull requests, and contribute to enhancing **Kadabra**. 
 
 
 
-
-<<<<<<< HEAD
-
-This software uses AI, ML, and NLP to quickly identify movies based on user-provided images of actors and descriptions of desired movie characteristics.
-
-
-In progress, come back later ^_^ 
-=======
->>>>>>> d55c0014be0705df0e65acd378d33c6e2f09b75c
-
-
+<!-- This software uses AI, ML, and NLP to quickly identify movies based on user-provided images of actors and descriptions of desired movie characteristics. -->
