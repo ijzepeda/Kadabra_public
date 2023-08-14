@@ -20,7 +20,7 @@ The motivation behind **Kadabra** was the popular application Shazam, renowned f
 
 ## Getting Started
 
-[Instructions on setting up and using the chatbot will be placed here.]
+Follow the requirements.txt
 
 ## Contributions
 
