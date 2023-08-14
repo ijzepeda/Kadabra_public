@@ -1,11 +1,5 @@
 # Kadabra: Your Movie Identification Chatbot
 
-
-
-https://github.com/ijzepeda-LC/Kadabra_AML2404/assets/122490453/a56255e8-9202-496d-ae06-21bb28fae785
-
-
-
 ## Overview
 
 Welcome to the **Kadabra** repository! We've developed an innovative system, a chatbot that goes beyond simple conversations. Kadabra is designed to interact with users through a Telegram interface, helping them identify movies of interest. Whether it's through providing a brief synopsis or even using an image from the movie script, Kadabra has you covered.
@@ -13,6 +7,9 @@ Welcome to the **Kadabra** repository! We've developed an innovative system, a c
 The system is rooted in two core components:
 1. Natural Language Processing (NLP)
 2. Facial Recognition
+
+https://github.com/ijzepeda-LC/Kadabra_AML2404/assets/122490453/a56255e8-9202-496d-ae06-21bb28fae785
+
 
 ## Inspiration
 
