@@ -30,7 +30,10 @@ Follow the requirements.txt
 Feel free to fork, open pull requests, and contribute to enhancing **Kadabra**. We appreciate any feedback and contributions!
  Happy watching! 🍿🎬
 
+## Code
 
+Final code is not publicly available. If want to review it please request a demo.
+`razeo8hs@duck.com`
 
 
 
